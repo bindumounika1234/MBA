@@ -1,4 +1,4 @@
-# MBA
+# Market Basket Analysis
 # TITLE:
           MARKET BASKET ANALYSIS
 # Description:
